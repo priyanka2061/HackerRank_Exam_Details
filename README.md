@@ -23,10 +23,10 @@ After exam form fill-up link: https://tinyurl.com/yr23tdwr<br>
 4 Problems (2xEasy + 1xMedium + 1xHard Levels), Duration 50 minutes.
 <br><br>
 ## Competitive Coding Test: 18th May 2023 (From 12.30 pm to 01.30 pm)
-1. **IT (AB Sir Morning Batch - 5)** (50 Heads)
-2. **IT (AB Sir Afternoon Batch - 6)** (50 Heads)
-3. **ECE (AC Sir Morning Batch - 7)** (40 Heads)
-4. **ECE (AC Sir Afternoon Batch - 8)** (40 Heads)
+1. **IT (AB Sir Morning Batch - 5)** (50 Heads) (Exam Link: )
+2. **IT (AB Sir Afternoon Batch - 6)** (50 Heads) (Exam Link: )
+3. **ECE (AC Sir Morning Batch - 7)** (40 Heads) (Exam Link: )
+4. **ECE (AC Sir Afternoon Batch - 8)** (40 Heads) (Exam Link: )
 
 MS-Teams Meeting link: https://tinyurl.com/yetjejhf<br>
 After exam form fill-up link: https://tinyurl.com/yr23tdwr<br>
