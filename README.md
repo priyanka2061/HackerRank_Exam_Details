@@ -14,7 +14,7 @@ Let me know if you require any further support from my end.
 ## Competitive Coding Test: 18th May 2023 (From 11.00 am to 12.00 noon)
 1. **CSE (AB Sir Morning Batch - 1)** (55 Heads) (Exam Link: https://www.hackerrank.com/administration/contests/edit/144285)
 2. **CSE (AB Sir Afternoon Batch - 2)** (55 Heads) (Exam Link: https://www.hackerrank.com/administration/contests/edit/222364)
-3. **CSE (AC Sir Morning Batch - 3) (55 Heads)** (Exam Link: https://www.hackerrank.com/administration/contests/edit/222366)
+3. **CSE (AC Sir Morning Batch - 3)** (55 Heads) (Exam Link: https://www.hackerrank.com/administration/contests/edit/222366)
 4. **CSE + CSBS (AC Sir Afternoon Batch - 4)** (55 Heads) (Exam Link: https://www.hackerrank.com/administration/contests/edit/222367) 
 
 MS-Teams Meeting link: https://tinyurl.com/yetjejhf<br>
