@@ -2,16 +2,15 @@
 
 ## Important Points to Note:
 1. All students should have Hackerrank basic account credentials. If you don't have then please create it once now.
-2. Please find the batch wise contest URLs as given below.
-3. Appear for the test now. Exam will end according to the date and time as mentionsed.
-4. After completion of this test, exam form fill up is mandatory. And only after filling up this form your exam score will be officially registered. URL has been given below.
+2. Please find the batch wise contest links as given below.
+3. Appear for the test now. Exam will end according to the date and time as mentionsed below.
+4. After completion of this contest, exam form fill up is mandatory. And only after filling up this form your exam score will be officially registered by the college. Link has been given below.
 
 Our BEST WISHES are with you !!!
 Good Luck...
 
 Let me know if you require any further support from my end.
-
-**Competitive Coding Test: _18th May 2023 (From 11.00 am to 12.00 noon)_**
+<br><br>
 ## Competitive Coding Test: 18th May 2023 (From 11.00 am to 12.00 noon)
 1. **CSE (AB Sir Morning Batch - 1)** (55 Heads) (Exam Link: https://www.hackerrank.com/administration/contests/edit/144285)
 2. **CSE (AB Sir Afternoon Batch - 2)** (55 Heads) (Exam Link: https://www.hackerrank.com/administration/contests/edit/222364)
