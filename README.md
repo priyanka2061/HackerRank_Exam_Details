@@ -1,7 +1,7 @@
 # HackerRank_Exam_Details
 
 ## Important Points to Note:
-1. All students should have Hackerrank basic account credentials.
+1. All students should have Hackerrank basic account credentials. If you don't have then please create it once now.
 2. Please find the batch wise contest URLs as given below.
 3. Appear for the test now. Exam will end according to the date and time as mentionsed.
 4. After completion of this test, exam form fill up is mandatory. And only after filling up this form your exam score will be officially registered. URL has been given below.
