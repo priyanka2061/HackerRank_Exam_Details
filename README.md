@@ -20,13 +20,3 @@ Let me know if you require any further support from my end.
 MS-Teams Meeting link: https://tinyurl.com/yetjejhf<br>
 After exam form fill-up link: https://tinyurl.com/yr23tdwr<br>
 4 Problems (2xEasy + 1xMedium + 1xHard Levels), Duration 50 minutes.
-<br><br>
-## Competitive Coding Test: 18th May 2023 (From 12.30 pm to 01.30 pm)
-1. **IT (AB Sir Morning Batch - 5)** (50 Heads) (Exam Link: https://www.hackerrank.com/competitive-coding-exam-batch-5)
-2. **IT (AB Sir Afternoon Batch - 6)** (50 Heads) (Exam Link: https://www.hackerrank.com/competitive-coding-exam-batch-6)
-3. **ECE (AC Sir Morning Batch - 7)** (40 Heads) (Exam Link: https://www.hackerrank.com/competitive-coding-exam-batch-7)
-4. **ECE (AC Sir Afternoon Batch - 8)** (40 Heads) (Exam Link: https://www.hackerrank.com/competitive-coding-exam-batch-8)
-
-MS-Teams Meeting link: https://tinyurl.com/yetjejhf<br>
-After exam form fill-up link: https://tinyurl.com/yr23tdwr<br>
-4 Problems (2xEasy + 1xMedium + 1xHard Levels), Duration 50 minutes.
